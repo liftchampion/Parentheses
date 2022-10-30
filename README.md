@@ -4,4 +4,4 @@
 
 Выводит в лексикографическом порядке
 
-![img1](https://github.com/liftchampion/BrailleGeometry/blob/main/braille3.png)
+![img1](https://github.com/liftchampion/Parentheses/blob/main/skobki.png)
